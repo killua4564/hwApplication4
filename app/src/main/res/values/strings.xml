@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HwApplication4</string>
+    <string name="main_activity_name">HwApplication4</string>
+    <string name="add_activity_name">Add HwApplication4</string>
+    <string name="default_button">ADD</string>
+    <string name="default_class">[Class Name]</string>
+    <string name="default_week">[Week]</string>
+    <string name="default_time">[Time]</string>
+    <string name="notification_title">快要上課囉</string>
+    <string name="notification_text">owo</string>
+</resources>
